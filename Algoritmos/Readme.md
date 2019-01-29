@@ -5,10 +5,10 @@ e lógica de programação.
 
 ## Sobre Python
 
--- É uma linguagem lançada em 1991 por Guido van Rossum.
--- É open Source.
--- Busca atráves de uma sintaxe clara e concisa destacar a importância do esforço do programador.
--- É orientada a objetos.
+- É uma linguagem lançada em 1991 por Guido van Rossum.
+- É open Source.
+- Busca atráves de uma sintaxe clara e concisa destacar a importância do esforço do programador.
+- É orientada a objetos.
 
 
 De onde veio o nome Python?
