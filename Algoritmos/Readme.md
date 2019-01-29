@@ -1,14 +1,18 @@
-# Git Course
+# Algoritmos de Python
 
-Este é um repositório teste para ensinar git
+Neste repositório estão algoritmos que trabalham com a sintaxe da linguagem Python
+e lógica de programação.
 
-Saiba mais no link: git.com
+## Sobre Python
 
-Está bem legal o curso
+-- É uma linguagem lançada em 1991 por Guido van Rossum.
+-- É open Source.
+-- Busca atráves de uma sintaxe clara e concisa destacar a importância do esforço do programador.
+-- É orientada a objetos.
 
-Toda vez que eu viajava pela estrada de ouro fino
 
-Atualizando linha
+De onde veio o nome Python?
 
-
-Go Go Python !!!!
+Se você pensou na serpente... se enganou. O nome da linguagem tem inspiração no grupo de humor britânico Monty Python que
+é o criador do programa Monty Python's Flying Circus.
+Mas o símbolo atribuído a linguagem lembra o réptil mesmo.
