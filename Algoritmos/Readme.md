@@ -6,13 +6,18 @@ e lógica de programação.
 ## Sobre Python
 
 - É uma linguagem lançada em 1991 por Guido van Rossum.
-- É open Source.
+- É linguagem de código aberto.
 - Busca atráves de uma sintaxe clara e concisa destacar a importância do esforço do programador.
 - É orientada a objetos.
 
 
 De onde veio o nome Python?
 
-Se você pensou na serpente... se enganou. O nome da linguagem tem inspiração no grupo de humor britânico Monty Python que
+Se você pensou na serpente... se enganou.
+
+O nome da linguagem tem inspiração no grupo de humor britânico Monty Python que
 é o criador do programa Monty Python's Flying Circus.
+
 Mas o símbolo atribuído a linguagem lembra o réptil mesmo.
+
+![](https://agoraescrevendo.files.wordpress.com/2016/01/python-sh.png)
